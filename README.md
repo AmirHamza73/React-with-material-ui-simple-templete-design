@@ -4,7 +4,7 @@
 
 <h2>🚀 Demo</h2>
 
-[[https://tailwind-simple-templete-7pbel1g4r-amir-hamzas-projects.vercel.app/](https://react-with-material-ui-simple-templete-design.vercel.app/)]([https://tailwind-simple-templete-7pbel1g4r-amir-hamzas-projects.vercel.app/](https://react-with-material-ui-simple-templete-design.vercel.app/))
+[https://react-with-material-ui-simple-templete-design.vercel.app/](https://react-with-material-ui-simple-templete-design.vercel.app/)
 
 <h2>Project Screenshots:</h2>
 
